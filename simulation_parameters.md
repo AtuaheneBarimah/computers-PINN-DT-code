@@ -1,4 +1,4 @@
-#PINN Model parameters
+# PINN Model parameters
 
 Feature_1 = 1
 Feature_2 = 1
@@ -30,7 +30,4 @@ dis_size = 50
 
 ## Number of samples for Monte Carlo Dropout
 n_mc_samples = 50 
-
-## Frequency of output collection
-pinn_range_1 = 501     
-pinn_range_2 = 100     
+ 
