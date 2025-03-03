@@ -30,4 +30,5 @@ dis_size = 50
 
 ## Number of samples for Monte Carlo Dropout
 n_mc_samples = 50 
- 
+dropout_rate_x = 0.1
+band = 3
