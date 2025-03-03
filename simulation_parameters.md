@@ -1,14 +1,14 @@
 # PINN Model parameters
 
-Feature_1 = 1
-Feature_2 = 1
-Feature_3 = 1
-scaler = 1
-kern_1_1 = 1e-3
-kern_1_2 = 1e-3
-kern_1_3 = 1e-3
-kern_1_4 = 1e-3
-kern_1_5 = 1e-3
+-Feature_1 = 1
+-Feature_2 = 1
+-Feature_3 = 1
+-scaler = 1
+-kern_1_1 = 1e-3
+-kern_1_2 = 1e-3
+-kern_1_3 = 1e-3
+-kern_1_4 = 1e-3
+-kern_1_5 = 1e-3
 
 kern_1 = 1
 kern_2 = 1
